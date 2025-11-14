@@ -15,6 +15,6 @@ This project explores Formula 1 telemetry data using the [FastF1 API](https://gi
 ## Visualizations
 | Tire Degradation | Gear Shifts | Lap Comparisons |
 |------------------|--------------|----------------|
-| ![](images/tire_plot.png) | ![](images/gear_plot.png) | ![](images/lap_plot.png) |
+| ![](images/tire_plot.png) | ![](images/gear_shift_analysis.png) | ![](images/lap_plot.png) |
 
 
